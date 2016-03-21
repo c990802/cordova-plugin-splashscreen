@@ -5,15 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-splashscreen",
     "platforms": [
-      "android",
-      "amazon-fireos",
-      "ubuntu",
-      "ios",
-      "blackberry10",
-      "wp8",
-      "windows8",
-      "windows",
-      "tizen"
+      "android"
     ]
   },
   "repository": {
